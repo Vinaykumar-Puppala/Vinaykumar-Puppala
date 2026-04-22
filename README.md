@@ -1,8 +1,6 @@
 ### Hi there 👋 This is VINAY KUMAR PUPPALA (WIN I)
-- 🔭 I’m currently working on SPGI as Machine Learning Engineer
-- 🌱 I’m currently learning MLops, NLP
-- 👯 I’m looking to collaborate on MLOps, Python
-- 💬 Ask me about Python, MLOps, Automation, ML Engineering
-- 📫 How to reach me: ... @HelloVinaykumar (Twitter) @wiin-ai at LinkedIn
+- 🔭 I’m currently working as Associate Director, AI Solution - Kensho, S&P GLOBAL
+- 💬 Ask me about Gen AI, Python, MLOps, Automation, ML Engineering
+- 📫 How to reach me: ... @HelloVinaykumar (Twitter) @vinaykumar-puppala at LinkedIn
 - 😄 Pronouns: ...WIN I - (He/Him)
-- ⚡ Fun fact: ... just Code and Chill 
+- ⚡ Fun fact: ... just explore and read more ..
